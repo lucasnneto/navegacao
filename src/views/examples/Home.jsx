@@ -1,7 +1,7 @@
 const Home = (props) => (
   <div className="Home">
     <h1>Componente Home</h1>
-    <p>Bem Vindo!</p>
+    <h2>Bem Vindo!</h2>
   </div>
 );
 export default Home;
